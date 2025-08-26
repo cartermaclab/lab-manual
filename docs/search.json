@@ -1,0 +1,264 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab Manual",
+    "section": "",
+    "text": "Welcome\nWe are thrilled to welcome you to our research team. Whether you are an undergraduate student starting your first research experience, a graduate student embarking on your thesis journey, or a postdoctoral fellow continuing your research career, you play an important role in the success and growth of our lab. Our lab is a dynamic and collaborative environment dedicated to advancing our understanding of how the human brain controls and learns skilled actions in healthy and clinical populations, as well as understanding research practices in kinesiology and related areas through a metascience lens.\nThis handbook is your essential guide to navigating life in the Action, Cognition, and Metascience Lab. It is designed to provide you with the foundational knowledge you need to get started safely and productively, covering everything from day-to-day lab operations to longer-term professional development. Please be aware that this is a living document. The scientific landscape, university policies, and our lab’s practices evolve, and so will this handbook. We will update it to reflect these changes accordingly, and we encourage you to provide feedback and suggestions to help us keep it current and comprehensive. It is your responsibility to read, understand, and adhere to the guidelines outlined within this handbook. Familiarizing yourself with its contents is a critical step in ensuring a safe, efficient, and successful research experience for everyone in the lab.\nResearch can be both exciting and challenging—there will be moments of discovery and progress, as well as setbacks and troubleshooting. Our aim is to support you through all of it with mentorship, training, and a community of peers. Our research team is committed to providing a respectful, inclusive, and intellectually stimulating environment where everyone is encouraged to learn, explore, and contribute meaningfully.\nWe are excited to work with you and look forward to your contributions to the Action, Cognition, and Metascience Lab.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "0_land.html",
+    "href": "0_land.html",
+    "title": "Land acknowledgment",
+    "section": "",
+    "text": "The Action, Cognition, and Metascience Lab at McMaster University recognizes and acknowledges that it is located on the traditional territories of the Mississauga and Haudenosaunee nations, and within the lands protected by the “Dish with One Spoon” wampum agreement.\n\nAdditional resources\n\nIntroduction to Land Acknowledgments\nTruth and Reconciliation Commission of Canada\nHaudenosaunee Confederacy\nDish with One Spoon\nBeyond Territorial Acknowledgments",
+    "crumbs": [
+      "Preface",
+      "Land acknowledgment"
+    ]
+  },
+  {
+    "objectID": "0_edi.html",
+    "href": "0_edi.html",
+    "title": "Equity, Diversity, Inclusion, and Accessibility",
+    "section": "",
+    "text": "The Action, Cognition, and Metascience lab is committed to fostering a respectful, inclusive, accessible, and welcoming environment for all. We affirm the inherent worth and dignity of every individual and strive to create a space where everyone has equitable opportunities to thrive, contribute, and succeed. We recognize that a diverse, inclusive, and accessible lab environment enriches the scientific enterprise and is essential for achieving excellence, driving innovation, and ensuring meaningful social impact. Our research team is committed to the proactive recruitment, support, and retention of individuals who have historically been marginalized or underrepresented in science, technology, engineering, and mathematics. We recognize that representation matters and that inclusive practices strengthen both our research and our community.\nOur research team is committed to ongoing learning and action to deepen our understanding of equity, diversity, inclusion, and accessibility—both within our lab and across the broader scientific landscape. This is a continuous and evolving process that requires intentionality, accountability, and a willingness to challenge systemic inequities. We are especially committed to addressing the barriers faced by equity-deserving groups, including, but not limited to, individuals from lower socioeconomic backgrounds, first-generation students and scholars, Indigenous peoples, racialized communities, LGBTQI2S+ individuals, women, and persons with disabilities. Through reflective practice and collective effort, we aim to build a more just and inclusive scientific community. Everyone is welcome in the Action, Cognition, and Metascience Lab at McMaster University.\n\nAdditional resources\n\nMcMaster University’s Equity and Inclusion Office\nMcMaster University’s Equity, Diversity, and Inclusion strategy\nMcMaster University’s Equity and Inclusion Policies\nUnderstanding Equity, Diversity, and Inclusion in the Academy\nUnderstanding Unconscious Bias",
+    "crumbs": [
+      "Preface",
+      "Equity, Diversity, Inclusion, and Accessibility"
+    ]
+  },
+  {
+    "objectID": "1_culture.html",
+    "href": "1_culture.html",
+    "title": "1  Lab culture",
+    "section": "",
+    "text": "In our lab, we are more than just a group of researchers with a shared interest in sensorimotor neuroscience. We are a community committed to fostering an environment of collaboration, respect, and innovation. Our goal is for everyone who joins our lab to feel valued, supported, and welcome.\nOur culture is built on three core pillars: open communication, mutual respect, and a shared passion for discovery and the exchange of ideas. We believe that the most impactful ideas emerge from diverse perspectives working together. We encourage open dialogue, brainstorming, and collaborative problem-solving. Regular lab meetings and informal gatherings provide opportunities to share research updates, offer feedback, and celebrate milestones—both personal and professional. Clear, respectful communication is essential at every level of the lab. The best idea wins, regardless of who it comes from. (I have lots of ideas…most of which aren’t very good!)\nWe are committed to creating an inclusive environment that embraces and values diversity in all its forms. We believe that a range of backgrounds, experiences, and viewpoints strengthens both our science and our sense of community. Everyone in the lab deserves equal opportunities to learn, grow, and contribute—regardless of identity or background.\nInnovation and creativity are at the heart of our work. You are encouraged to think boldly, take intellectual risks, and explore unconventional approaches. Lifelong learning is a cornerstone of our lab. We will support each other’s development through workshops, conferences, and mentorship opportunities.\nWhile we are passionate about our research, we also recognize the importance of work-life balance. Everyone is encouraged to find a rhythm that supports productivity in the lab and well-being outside of it.\nRespect and professionalism are non-negotiable. This applies to how we interact with each other, how we conduct our research, and how we represent our lab in the broader scientific community. Every lab member is expected to uphold these standards in their daily work and interactions.\nFinally, your feedback is essential to the continued growth of our lab culture. I am not a perfect person and I make mistakes (just ask my partner!). If something I have said or done (or failed to say or do) has affected you, I hope you will feel comfortable speaking with me about it. I am always open to dialogue and genuinely welcome suggestions for how we can make our lab an even better place to work, learn, and grow.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Lab culture</span>"
+    ]
+  },
+  {
+    "objectID": "1_expectations.html",
+    "href": "1_expectations.html",
+    "title": "2  General expectations",
+    "section": "",
+    "text": "2.1 Drive your research\nWe strive to create a lab environment where everyone contributes not only to scientific discovery, but also to the development of one another as scientists, mentors, and colleagues. While your specific responsibilities will vary depending on your role and experience, there are a few core expectations that apply to all lab members.\nA fundamental expectation in our lab is that you take ownership of your research and academic journey. I am here to advise, guide, and support you every step of the way, but ultimately, you are responsible for driving your work and shaping your path. Depending on your background, the complexity of your project, and your preferences, my level and style of mentorship may vary; however, your autonomy and agency are central. We will work together to design research projects that are scientifically meaningful and mutually interesting. If you feel true ownership of your work, you are more likely to be motivated, resilient, and proud of your contributions.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>General expectations</span>"
+    ]
+  },
+  {
+    "objectID": "1_expectations.html#lab-presence",
+    "href": "1_expectations.html#lab-presence",
+    "title": "2  General expectations",
+    "section": "2.2 Lab presence",
+    "text": "2.2 Lab presence\nBeing physically present and intellectually engaged in the lab is key to your success and to the vibrancy of our team. Showing up consistently, participating in discussions, and making time to connect with lab mates creates the kind of dynamic environment where ideas thrive and people feel supported. Even if your work allows for flexibility or remote tasks, a regular presence in the lab space is expected (see relevant section in Roles and responsibilities). You will learn more, share more, and generate more ideas by showing up and being actively engaged in our shared space. Reading papers? Read them here. Writing a section of a paper or chapter of a thesis? Write it here. Working on a conference presentation? Work on it here. Grading assignments? Grade them here.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>General expectations</span>"
+    ]
+  },
+  {
+    "objectID": "1_expectations.html#mentoring",
+    "href": "1_expectations.html#mentoring",
+    "title": "2  General expectations",
+    "section": "2.3 Mentoring",
+    "text": "2.3 Mentoring\nRegardless of your career stage, you have knowledge, skills, and experiences that can benefit others. You also have the opportunity to learn from your peers. I encourage everyone to engage in mutual mentoring—be generous in offering help and open to receiving it. This culture of shared growth helps us do our best work and builds a positive, collaborative, and inclusive lab atmosphere.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>General expectations</span>"
+    ]
+  },
+  {
+    "objectID": "1_communication.html",
+    "href": "1_communication.html",
+    "title": "3  Communication",
+    "section": "",
+    "text": "3.1 After hours communication\nWhen you join the lab, you will receive an invitation to our Zulip workspace (https://carterlab.zulipchat.com). We use Zulip for all internal communication, including sharing forms that need signatures, links to documents for review and/or editing, coursework submissions, and general lab discussions.\nA desktop app is available for Linux, macOS, and Windows (https://zulip.com/apps).\nAs a parent with young children, I sometimes find myself working during evenings, weekends, or holidays. If you receive a Zulip message (or email) from me during these times, please know that there is no expectation for an immediate response. I encourage you to reply during your regular working hours.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "1_space.html",
+    "href": "1_space.html",
+    "title": "4  Lab space",
+    "section": "",
+    "text": "Our lab space serves multiple purposes: it is a place for conducting research, holding meetings, collaborating with others, and brainstorming ideas over coffee. This is where much of the day-to-day work of the lab happens—from experimental design and data collection to group discussions and informal check-ins. Lab meetings and pod meetings will take place here unless otherwise communicated.\nAs a shared space, everyone is responsible for maintaining a clean, organized, and respectful working environment. This includes returning equipment and supplies to their proper places, wiping down workstations when needed, and keeping common areas free of clutter. If you notice something is broken or missing, please bring it to my attention immediately.\nIn the event of an emergency (e.g., medical issue, fire, equipment malfunction), follow the appropriate safety procedures and notify me or a senior lab member as soon as possible. Make sure you are familiar with the location of emergency exits, first aid kits, and fire extinguishers. If you are unsure about any safety procedures or expectations, please ask. We are all responsible for keeping the lab safe and functional.\nFinally, while the lab is a professional research space, it is also a place where curiosity and collaboration are encouraged and community is created. Do not hesitate to use the whiteboard or grab a coffee with a lab mate to sketch out a new idea. Some of our best thinking happens when we are not staring directly at a screen.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Lab space</span>"
+    ]
+  },
+  {
+    "objectID": "1_meetings.html",
+    "href": "1_meetings.html",
+    "title": "5  Lab meetings",
+    "section": "",
+    "text": "Lab meetings are a central part of the research environment in this lab. They provide a regular space for discussing ongoing projects, developing research skills, sharing challenges, and building a strong intellectual community. These meetings are an opportunity to receive feedback, learn from others, and engage in the collaborative process that underpins rigorous scientific research.\nAttendance at lab meetings is mandatory, unless you have a class that conflicts with the meeting time. If a conflict arises, please let me know in advance. Active participation in lab meetings is a key part of your training. These meetings are also an important venue for staying connected to the broader work of the lab. Use of laptops, phones, or other devices during lab meetings is not permitted, unless explicitly required (e.g., for presenting) and approved by me for the meeting. The goal is to create a focused and respectful environment for shared discussion.\nLab meetings are typically held weekly or biweekly during the Fall and Winter semesters and take place in our lab space. The structure and frequency of lab meetings may vary depending on my teaching schedule and the current composition of the lab.\n\n5.0.1 Pod meetings\nPod meetings are smaller, more focused gatherings organized around individual projects. These meetings allow for detailed technical discussions, project planning, and mentorship within a more targeted context. Pod meetings are meant to complement—not replace—full lab meetings, and you are expected to attend and engage with both formats. Pod meetings may occur more frequently than regular lab meetings depending on the needs of individual projects and lab members.\n\n\n5.0.2 Journal club\nGraduate students will take turns leading journal clubs, with a primary focus on methodological topics, statistical approaches, or metascience articles. This focus helps ensure that discussions are broadly relevant to all lab members. Occasionally, we may discuss a more targeted article that relates directly to a project in the lab.\nEach journal club presentation should be prepared in collaboration with one or two undergraduate lab members. This provides an opportunity for undergraduates to deepen their understanding of scientific literature and for graduate students to develop their mentorship and leadership skills.\nPresenters are expected to give a brief overview of the paper, including the research question, methods, results, and key conclusions. A few discussion questions should be prepared in advance to help facilitate the conversation. The purpose of journal club is not to critique for the sake of criticism, but to build a deeper understanding of the literature, develop critical thinking skills, and practice communicating research ideas clearly and constructively.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lab meetings</span>"
+    ]
+  },
+  {
+    "objectID": "1_research.html",
+    "href": "1_research.html",
+    "title": "6  Research",
+    "section": "",
+    "text": "6.1 Ethics approval\nResearch in this lab is a collective effort rooted in curiosity, integrity, and mutual support. While each lab member is responsible for their own project, you are also expected to learn from—and contribute to—the knowledge and experience of those around you. We are all here to help each other grow as scientists. Our lab culture values mentorship, collaboration, and openness. We want you to feel comfortable asking questions and seeking guidance when needed.\nEveryone is busy, but taking time to help one another is part of how we work. That does not mean others will do your research or solve your problems for you, but they can help you think through a challenge, suggest resources, or share how they have navigated similar situations. We are stronger as a lab when we support one another’s success.\nImportantly, you are not in competition with your fellow lab mates. We do not draw boundaries around ideas or contributions. We include each other as co-authors when it is scientifically appropriate to do so, and we value intellectual generosity over individual credit. Including others on your project does not diminish your accomplishments. Instead, it reflects the collaborative nature of good science because in this lab we help one another.\nConducting ethical, rigorous, and transparent research is a core value of this lab. Before beginning any study involving human participants, you must receive approval from either the McMaster Research Ethics Board (MREB) or the Hamilton Integrated Research Ethics Board (HiREB). Most of our protocols will be reviewed by MREB; however, it is your responsibility to ensure you submit to the appropriate ethics board. Please consult the following document, MREB or HiREB to determine the appropriate ethics board.\nYou are responsible for obtaining ethics approval for your study, with guidance from me as your supervisor. The approval process can take multiple months so it is important to start early. In general, it can be advantageous to submit an initial application sooner, even if your study design is still evolving, rather than wait until every detail is finalized. You can always submit modifications later.\nOnce your study is approved, you are responsible for adhering to all institutional policies and procedures related to research conduct. This includes proper handling of participant recruitment, informed consent, data storage and security, and documentation of participant payments and associated forms. Failure to comply with these can have serious consequences.\nIf you are unsure about whether a task or activity requires ethics approval or how to follow specific institutional guidelines, ask me early and ask often. We are all accountable for maintaining high standards of research integrity.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Research</span>"
+    ]
+  },
+  {
+    "objectID": "1_research.html#data-management-and-sharing",
+    "href": "1_research.html#data-management-and-sharing",
+    "title": "6  Research",
+    "section": "6.2 Data management and sharing",
+    "text": "6.2 Data management and sharing\nIn this lab, you will be expected to follow best practices for organizing, documenting, analyzing, and sharing your data and scripts. This is not only critical for transparency, integrity, and reproducibility, but also for your own efficiency and future success as a researcher.\nYou will learn many of these skills as you complete KINESIOL 736 (Scientific Computing for Reproducible Research) as part of your graduate coursework. This includes file organization, naming conventions, version control, code documentation, and open science workflows using tools like GitHub and the Open Science Framework (OSF). These platforms allow us to manage our projects collaboratively, keep a clear record of changes, and share our work publicly.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Research</span>"
+    ]
+  },
+  {
+    "objectID": "1_research.html#research-misconduct",
+    "href": "1_research.html#research-misconduct",
+    "title": "6  Research",
+    "section": "6.3 Research misconduct",
+    "text": "6.3 Research misconduct\nThis lab has a zero-tolerance policy for research misconduct, which includes (but is not limited to):\n\nPlagiarism\nMisrepresentation of authorship\nBreak of participant confidentiality\nFailure to obtain or adhere to REB approval\nKnowingly ignoring research policies or ethical standards\nFabrication or falsification of data\n\nYou are strongly encouraged to review the Tri-Agency Framework: Responsible Conduct of Research. Any instance of research misconduct will be treated with the utmost seriousness, and you will face severe consequences. Do not do it.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Research</span>"
+    ]
+  },
+  {
+    "objectID": "1_research.html#responsible-use-of-research-funds",
+    "href": "1_research.html#responsible-use-of-research-funds",
+    "title": "6  Research",
+    "section": "6.4 Responsible use of research funds",
+    "text": "6.4 Responsible use of research funds\nResearch funds are to be used only for the direct costs of research. They may not be used for personal expenses or for any purpose unrelated to approved research activities. NSERC provides detailed guidance in their Use of Grant Funds document. This resource outlines which expenses are eligible and which are not. If you are ever unsure whether a purchase or reimbursement request is appropriate, please ask me before proceeding.\nMisuse of research funds is a very serious offence. It violates both university and federal funding agency policies and will result in severe consequences. Do not do it.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Research</span>"
+    ]
+  },
+  {
+    "objectID": "1_conferences.html",
+    "href": "1_conferences.html",
+    "title": "7  Conferences",
+    "section": "",
+    "text": "Attending conferences is an important part of academic life and a valuable opportunity to share your work, receive feedback, and engage with the broader scientific community. Travel to conferences is dependent on our lab budget and may vary from year to year. In general, the requirement to represent out lab at an academic conference is that your project is sufficiently developed to be presented as a poster or a talk. We will make this decision together.\nAs a lab, we typically attend SCAPPS and NCM. SCAPPS is our home conference, and we attend it every year. NCM is an international conference that we generally attend every other year, depending on interest, relevance, and lab budget. Other conferences we have attended in the past include NASPSPA and SfN. If there is a different meeting you would like to attend, please bring it to my attention so we can discuss whether it is a good fit and whether there is room in the lab budget to support it. As a general rule, graduate students can expect to present completed work at one major conference per year.\nTo be eligible for conference travel, you must show me a first draft of your abstract at least 2 weeks in advance of the submission deadline and your final draft at least 1 week before the deadline. This allows time for multiple rounds of feedback and revisions from myself and any other collaborators. If you do not meet this timeline, you will not be eligible to attend the conference.\nIf your submission is accepted, your poster or talk must be completed at least 2 weeks before we leave for the conference. This ensures there is sufficient time to give practice presentations to the lab and make any necessary adjustments. Presenting your work clearly and confidently is a skill that takes time to develop, and our lab group provides a supportive environment for rehearsing and receiving feedback.\nTravel funding for graduate students is also available through our Department, provided you meet the attendance requirement for the Departmental Seminar Series. Meeting this attendance requirement is mandatory in this lab. Failure to do so will result in either missing out on conference travel or being responsible for covering the department travel award amount out of pocket. In all cases, you must submit your travel and expense pre-approval form to our graduate program administrator well in advance of any deadlines. Travel approvals and reimbursements are not guaranteed without prior authorization. Additional details can be found in the Graduate Student Handbook.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Conferences</span>"
+    ]
+  },
+  {
+    "objectID": "1_publications.html",
+    "href": "1_publications.html",
+    "title": "8  Publications",
+    "section": "",
+    "text": "8.1 Writing our papers\nPublishing is an important part of the research process and the primary way we contribute to the scientific community. In this lab, we value transparency, collaboration, and fairness in all aspects of authorship and dissemination.\nWe follow the Contributor Role Taxonomy (CRediT) as a guide for assigning and acknowledging authorship. All authorship decisions and ordering will be made in consultation with me based on the nature and extent of each individual’s contributions.\nUndergraduate students who make substantial contributions to a project, beyond what is expected for their coursework, will be included as authors on a conference abstract, and potentially on the manuscript. We strongly believe in recognizing the efforts of all contributors, regardless of career stage.\nAs part of our commitment to open science and accessibility, we also make use of preprint servers (e.g., PsyAr\\(\\chi\\)iv, bioR\\(\\chi\\)iv, SportR\\(\\chi\\)iv) to share our findings with the research community prior to formal publication. Preprints allow for broader dissemination and earlier feedback from the scientific community.\nIf you are writing your first abstract, manuscript, or thesis (or if you just need a refresher), here are some helpful resources to guide your thinking and structure:\nIt is also a good idea to read recent papers published by our lab. Doing so will help you get a sense of our writing style, structure, and tone. You will also see how we approach the different sections of a paper. Do not hesitate to ask for recommendations or help if you are unsure where to start.\nWe use Google Docs as our primary platform for collaborative writing when drafting manuscripts. Google Docs allows for real-time collaboration, inline commenting, and the use of suggesting mode, which makes it easy to track edits during revision rounds. It also has built-in version control, so earlier drafts can be reviewed or restored if needed. Please do not create new documents or tabs when drafting/revising your papers.\nAlthough we draft in Google Docs, the final version of each manuscript is typeset using Quarto, which we use for preprints and journal submissions. This means that we write using Quarto syntax during the drafting process in Google Docs. While this may take some time to get used to, it ensures consistency, reproducibility, and a smooth transition to the final formatted version.\nThere are many helpful resources available on the Quarto website to support you in learning the syntax and structure. We also have some Quarto templates for journal article formats and thesis/dissertation documents available here. If you are unfamiliar with Quarto, do not worry as support is available and your comfort with it will grow with practice. Learning it now will serve you well throughout your research career.",
+    "crumbs": [
+      "Our Lab",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Publications</span>"
+    ]
+  },
+  {
+    "objectID": "2_roles.html",
+    "href": "2_roles.html",
+    "title": "9  Overview",
+    "section": "",
+    "text": "As a member of the research team, you are part of a collaborative academic environment committed to scientific integrity, mutual respect, and professional development. The following expectations are designed to guide conduct and ensure the success of both individual researchers and the lab as a whole. My expectations for you will naturally evolve based on your specific role, experience, and expanding skill set within the lab. As your expertise grows, so too will the responsibilities and challenges presented to you.\nI encourage you to consider these expectations carefully. If you have concerns about meeting them or if you feel the lab’s approach does not align with your scientific aspirations, please do not hesitate to speak with me. I want to ensure this is the right environment for you to thrive.",
+    "crumbs": [
+      "Roles and Responsibilities",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Overview</span>"
+    ]
+  },
+  {
+    "objectID": "2_undergraduate.html",
+    "href": "2_undergraduate.html",
+    "title": "10  Undergraduate students",
+    "section": "",
+    "text": "10.0.1 Practicum/Project students\nYou have either 4 or 8 months to complete your practicum/project requirements. While the specific expectations may vary by course code, you will contribute to a research project and produce a well-written final report (or equivalent deliverable). Placement courses are designed to provide structured exposure to the research environment, including opportunities to develop technical and analytical skills, engage with scholarly inquiry, and gain insight into the norms and expectations of academic research.\nAt the first lab meeting in the Fall semester, you will learn about the different projects in the lab. Following this meeting, you will be asked to submit a ranked list of your top 3 project choices based on your interests and goals. Practicum students work under the supervision of myself and/or a designated senior lab member.\nYou are expected to:\n\nattend all scheduled lab and pod meetings\ndemonstrate professionalism, including courtesy, respect for others, reliability, and responsiveness to feedback\nfollow all lab policies and protocols, including those related to safety, data management, and confidentiality\nengage actively in your research tasks, contribute to group discussions, ask questions when unsure, and seek clarification or support when needed\nmaintain a research notebook (physical or digital) to document procedures, progress, and reflections throughout the term\n\nYou are not expected to:\n\ndesign independent research projects\nmaster aspects of the research process without support or guidance\nlead data analysis or interpretation independently\ncommit to hours beyond those required by your course\ntake on responsibilities beyond your level of training\n\nThe practicum/project experience is intended to be mutually beneficial. While the lab benefits from your contributions to ongoing research, the primary objective is to support your learning and professional development. You are strongly encouraged to approach this opportunity with curiosity, initiative, and a willingness to engage fully in the research process. This experience will help you determine whether further research opportunities, such as an undergraduate thesis, are a good fit for your academic and professional goals.\n\n\n10.0.2 Thesis students\nYou have 8 months to complete your thesis course requirements. While specific expectations may vary by course code (e.g., time commitment, proposal, presentations, etc.), you will contribute to a research project and produce a well-written final thesis document. Thesis courses are designed to provide an immersive and structured research experience. They offer opportunities to refine your technical, analytical, and scholarly communication skills, while also developing your ability to think critically and work independently within an academic research environment.\nAt the first lab meeting in the Fall semester, you will learn about the different projects in the lab. Following this meeting, you will be asked to submit a ranked list of your top 3 project choices based on your interests and goals. Thesis students work under the supervision of myself and/or a designated senior lab member, with the expectation that you engage with the research process at a higher level of independence, critical thinking, and involvement than is expected of practicum/project students.\nYou are expected to:\n\nattend all scheduled lab and pod meetings, and actively engage in these discussions\ndemonstrate professionalism, including courtesy, respect for others, reliability, and responsiveness to feedback\nfollow all lab policies and protocols, including those related to safety, data management, and confidentiality\ntake ownership of your assigned research tasks, meet agreed-upon deadlines/milestones, and manage your time effectively\nask questions when unsure and seek clarification or support from myself or a senior lab member when needed\nperform your data analysis and interpretation of results with consultation from myself and/or your designated senior lab member\nmaintain a detailed research notebook (physical or digital) that documents procedures, progress, decisions, and reflections throughout the project\nparticipate in at least one formal research presentation (this may be part of your course requirements; if not, you will present your work to the lab)\n\nYou are not expected to:\n\ndesign independent research projects\nmaster aspects of the research process without support or guidance\ncommit to hours beyond those required by your course\ntake on responsibilities beyond your level of training\n\nThe thesis experience is intended to support your intellectual growth, research competency, and academic confidence. While the lab benefits from your contributions, the primary goal is to help you build the skills necessary for more advanced research or graduate-level work. You are encouraged to take initiative, ask questions, and engage deeply with your project. This is your opportunity to explore a topic in depth and contribute meaningfully to the scholarly community.",
+    "crumbs": [
+      "Roles and Responsibilities",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Undergraduate students</span>"
+    ]
+  },
+  {
+    "objectID": "2_graduate.html",
+    "href": "2_graduate.html",
+    "title": "11  Graduate students",
+    "section": "",
+    "text": "All graduate students are expected to apply for scholarships (e.g., NSERC, SSHRC, CIHR, OGS, or other relevant opportunities). We will determine the most appropriate funding agency for your research together. In the absence of external awards, I will support you through my research grants, provided that you are meeting the expectations of the program and the lab.\nAdditional details about your graduate program requirements (e.g., supervisory committee, timelines, funding and travel grants, etc.) can be found in the Graduate Student Handbook. It is your responsibility to review and understand the procedures and policies outlined in that document.\n\n11.0.1 M.Sc. students\nYou have 2 years to complete all required coursework, your M.Sc. research, and produce a well-written thesis document. As an M.Sc. student in this lab, you will complete the following courses:\n\nKINESIOL 701 - Statistical Methods in Kinesiology (taught by Dr. Christoforou)\nKINESIOL 702 - Individual Study in Selected Topics (supervised by me)\nKINESIOL 736 - Scientific Computing for Reproducible Research (taught by me)\nOne additional course selected in consultation with me, based on your interests and academic goals\n\nThis lab adopts a replication-based approach to M.Sc. projects because replication is a cornerstone of credible and cumulative science. Moreover, concerns about the replicability of findings in kinesiology, neuroscience, psychology, and related disciplines have been widely documented. By attempting to reproduce existing findings, you will gain valuable insight into the research process. You will also strengthen your skills in critical evaluation, methodological design, data analysis, and scientific communication. This approach not only aligns with the core research philosophy of the lab, but also with what I consider the key goal of earning an M.Sc. degree: to develop the requisite skills to answer a scientific question in a rigorous and reproducible way.\nYour replication study will be designed in a way that makes it suitable for publication regardless of how the results turn out. We will work together to identify a suitable replication topic. This will involve addressing a clearly defined scientific question with a single study that may include multiple experiments (e.g., one replication and one extension) to test a specific hypothesis.\nAs part of your research project, you will take the lead on programming your experimental task. Our lab is not a “plug and play” environment, meaning custom task programming is required to suit the specific needs of each project. Fortunately, there are many sources of technical support within the lab, including experienced lab members and previously developed task code that you may be able to adapt for your study. You are encouraged to ask for help, collaborate, and build on existing resources as needed.\nAs a graduate student, you are responsible for seeing your research project through to completion. My role is to provide guidance, critical feedback, suggestions, and encouragement. The more regularly we interact, the more likely you are to stay on track. It is your responsibility to ensure that this happens by maintaining open communication and seeking support when needed.\n\n\n11.0.2 Ph.D. students\nYou have 4 years to complete all required coursework, your comprehensive examination, your Ph.D. research, and produce a well-written dissertation document. As a doctoral student in this lab, you will complete the following courses:\n\nKINESIOL 713 - Directed Readings in Kinesiology (supervised by me)\nKINESIOL 730 - Experiential Learning in Kinesiology (supervised by me)\nKINESIOL 736 - Scientific Computing for Reproducible Research (taught by me)\n\nif you completed your M.Sc. at a different institution\n\n\nWe will work together at the start of your doctoral studies to develop a general scientific question that will guide the design of your subsequent studies. A Ph.D. typically involves 3 studies, each of which may include multiple experiments and should be suitable for publication in high-quality, peer-reviewed journals. The overarching question should build on the existing literature and be of clear interest to researchers in sensorimotor neuroscience and related fields.\nA Ph.D. is the highest academic qualification one can earn in a discipline. One of its defining goals is that your research makes a theoretical contribution that advances knowledge in the field. This requires not only technical and analytical competence, but also creativity, persistence, and the ability to think critically and independently about complex problems.\nAs a doctoral student in the lab, you are expected to develop increasing independence in all aspects of the research process. You will take the lead on programming your experimental tasks, identifying appropriate methods, and executing your studies. Our lab is not “plug and play”—most tasks are custom-built—so you will be expected to leverage internal resources, including technical documentation, existing task code, and the expertise of other lab members. You are encouraged to collaborate, seek help when needed, and continuously refine your skills by building on existing tools and feedback.\nI am here to support and guide you through this process, but you are responsible for driving your Ph.D. research forward. Over time, your role will evolve: while we may initially work closely to define your research direction, the goal is for you to reach a point where you are generating new ideas, conducting pilot experiments, and bringing me the results of your own exploration. You should not expect me to provide you with fully formed research questions. Instead, you can and should rely on my experience to help you shape, evaluate, and refine your ideas into feasible and impactful projects.\nThe balance of initiative will shift over the course of your studies. In the early stages, I may play a more active role in project direction. By the midpoint, however, you are expected to be leading the way by proposing new directions, defending their importance, and grounding your ideas in theory, existing literature, and data. I will continue to offer guidance, feedback, and encouragement, but it is your responsibility to ensure that we meet regularly to discuss your ideas and progress.\nSome final thoughts to share. You should enjoy the day-to-day process of earning your Ph.D.—reading, thinking, experimenting, troubleshooting, writing—not just the anticipated outcomes such as the title, recognition, or career advancement. If you do not find fulfillment in the work itself, the process will feel much more challenging, and it may be difficult to succeed. Your passion for your research is not only what will sustain you, but also what will lead to meaningful and original contributions to the field.\nAlthough the roadmap to a Ph.D. is well laid out, the journey is rarely without detours. Unexpected challenges, setbacks, and breakthroughs are all part of the process. Learning to navigate these highs and lows is part of what builds resilience as a scholar.",
+    "crumbs": [
+      "Roles and Responsibilities",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Graduate students</span>"
+    ]
+  },
+  {
+    "objectID": "3_balance.html",
+    "href": "3_balance.html",
+    "title": "12  Work-life balance",
+    "section": "",
+    "text": "Graduate school and research can be deeply rewarding, but they also present unique challenges. Long timelines, uncertain outcomes, and high expectations can create pressure and stress. In this lab, we prioritize not only the quality of our research, but also the health and well-being of the people who conduct it. Creating and maintaining a meaningful academic life requires caring for yourself and others along the way. Your mental and physical health are important to me. If you are struggling with stress, anxiety, illness, or anything else, please know that you do not have to go through it alone. I am always available to listen (or chat) and can help you connect with the appropriate support on campus.\nAcademia is “front-end loaded” so it can easily blur the lines between work and personal time. You are not expected to be working all the time. While research can be demanding, your productivity and creativity are best supported when you find a healthy work-life balance. Rest, hobbies, family, social connections, and downtime are all essential elements of a fulfilling and successful graduate experience.\nIn general, I expect all of us to be in the lab during normal-ish work hours (i.e., 8-4 pm or 9-5 pm) on weekdays. You may choose to work from home one day per week, which you can inform me of on Zulip. While I do not monitor your presence in the lab day-to-day, I do pay attention to patterns. If I notice that I have not seen much of you in the lab, or if I feel that you are falling behind on your work or missing opportunities to engage, I will reach out so we can talk. This is not about micromanaging; it is about helping you stay on track, making sure you are getting what you need to succeed, and ensuring you are present for your fellow lab mates.\nOccasionally, we will find ourselves in a “crunch time”—before a grant deadline, a major conference presentation, or a big submission—when it might make sense to put in longer hours or work outside of normal time blocks. My preference would be for us to minimize the frequency of such situations as best as possible (or altogether). With good planning, organization, and efficiency, your work can and should be completed during regular work hours. This will help to protect your personal time. If you are finding it difficult to disconnect or manage your time effectively, please come talk to me. We can work together to find an approach that supports both your goals and your well-being.",
+    "crumbs": [
+      "Staying well",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Work-life balance</span>"
+    ]
+  },
+  {
+    "objectID": "3_need-help.html",
+    "href": "3_need-help.html",
+    "title": "13  Need help?",
+    "section": "",
+    "text": "McMaster University offers a range of health and wellness services, including counseling, medical care, accessibility support, and workshops on stress management and resilience. These resources and others are available here: https://wellness.mcmaster.ca/. I encourage you to make use of them when needed. Seeking support is not a sign of weakness—it is a sign of awareness and strength. Academic success should never come at the cost of your health.\nIf you are ever unsure whether it is “worth” bringing something up, err on the side of sharing. Your well-being matters, and we want to ensure a lab culture where people can thrive, not just survive.",
+    "crumbs": [
+      "Staying well",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Need help?</span>"
+    ]
+  },
+  {
+    "objectID": "3_illness.html",
+    "href": "3_illness.html",
+    "title": "14  Illness policy",
+    "section": "",
+    "text": "If you are sick, please stay home. Just send me a quick message on Zulip letting me know that you are taking a sick day. Coming into the lab while sick risks spreading illness to others. Staying home when you are unwell is not just about your own recovery, but also about protecting your colleagues and respecting the shared nature of our work environment.\nClose your laptop, get some rest, and focus on getting better. Taking care of your health helps ensure that when you return, you can engage fully with your work in the lab.",
+    "crumbs": [
+      "Staying well",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Illness policy</span>"
+    ]
+  },
+  {
+    "objectID": "3_holidays.html",
+    "href": "3_holidays.html",
+    "title": "15  Holidays and vacation",
+    "section": "",
+    "text": "Full-time graduate students are entitled to two weeks of vacation per calendar year, in addition to statutory holidays and the Winter Holiday Break. Disconnecting during these times is both healthy and necessary. Please talk to me in advance about when you would like to schedule your vacation. Clear communication helps us plan around each other’s absences.\nPlease inform me via Zulip of your planned vacation days for approval. I just ask that you are mindful of major lab events, deadlines, etc. when scheduling your vacation.",
+    "crumbs": [
+      "Staying well",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Holidays and vacation</span>"
+    ]
+  },
+  {
+    "objectID": "4_acknowledgments.html",
+    "href": "4_acknowledgments.html",
+    "title": "Acknowledgments",
+    "section": "",
+    "text": "Portions of this lab manual have been inspired and/or adapted from materials shared by others, in particular Paul Gribble, Mariam Aly, and Jonathan Peelle\nThis lab manual was created as a Quarto book. To learn more about Quarto books and other formats visit https://quarto.org/docs/guide/.",
+    "crumbs": [
+      "Acknowledgments"
+    ]
+  }
+]
